@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995241b6-a029-42b4-b3c0-a264efeab067" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter10/maxLength.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Practiseit.iml" afterPath="$PROJECT_DIR$/Practiseit.iml" />
-      <change beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/Chapter10/maxLength.java" afterPath="$PROJECT_DIR$/Chapter10/maxLength.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,10 +27,10 @@
       <file leaf-file-name="maxLength.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter10/maxLength.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="108">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
-                <element signature="e#133#141#0" expanded="true" />
+                <element signature="e#339#347#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -225,12 +222,12 @@
       <option name="presentableId" value="Default" />
       <updated>1518787326246</updated>
       <workItem from="1518787329518" duration="444000" />
-      <workItem from="1518787802701" duration="2708000" />
+      <workItem from="1518787802701" duration="2857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3152000" />
+    <option name="totallyTimeSpent" value="3301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="182" y="66" width="1533" height="875" extended-state="6" />
@@ -319,10 +316,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter10/maxLength.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#133#141#0" expanded="true" />
+            <element signature="e#339#347#0" expanded="true" />
           </folding>
         </state>
       </provider>
