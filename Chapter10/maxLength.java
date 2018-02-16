@@ -5,7 +5,7 @@ Write a method maxLength that takes an ArrayList of Strings as a parameter and t
 string in the list. If your method is passed an empty list, it should return 0.
  */
 
-class Main {
+public class maxLength {
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<String>();
         list.add("Hello");
